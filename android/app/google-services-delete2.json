@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042293821800",
+    "project_id": "monitory-f006c",
+    "storage_bucket": "monitory-f006c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042293821800:android:3ef65026472c61714c86dd",
+        "android_client_info": {
+          "package_name": "forosta_jaya_makmur.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZO9kK6NYbESFQ5UsDKFZL576KJskdxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
